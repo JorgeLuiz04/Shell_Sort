@@ -6,7 +6,7 @@
 int main()
 {
     // Parte inicial, vetor com uma lista de numeros, desorganizados
-    int vet[] = {99, 6, 3, 2, 21, 1, 22, 65, 4, 7, 85, 5, 8, 10, 11};
+    int vet[] = {99, 6, 3, 2, 21, 1, 22, 65, 4, 7, 85, 5, 8, 10, 11, 66};
     int i, c = 0, q, aux, n = sizeof(vet) / sizeof(vet[0]); // n é a quantidade de itens do vetor
 
     // Primeira parte do codigo, h é o tamanho do salto.
